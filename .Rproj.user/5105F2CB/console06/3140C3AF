@@ -804,4 +804,13 @@ C:\Users\Chun-Yen Lin\Desktop\R-intro>[0K[?25hg[0Ki[0Kt[0K[43G[?25lC:\Us
 [0K[?25h]0; [?25l
 C:\Users\Chun-Yen Lin\Desktop\R-intro>[0K[?25hg[0Ki[0Kt[0K[43G[?25lC:\Users\Chun-Yen Lin\Desktop\R-intro>git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[50G[?25lC:\Users\Chun-Yen Lin\Desktop\R-intro>git commit -[0K[?25ha[0K[?25l
 [0K[?25h]0;  - git  commit -a]0; [?25l
+C:\Users\Chun-Yen Lin\Desktop\R-intro>[0K[?25hgit push -u origin master[0K]0;  - git  push -u origin master[?25l
+[0K[?25h]0; To https://github.com/rappuccino/Carpenter-R[0K[?25l
+ ! [rejected]        master -> master (non-fast-forward)[0K
+error: failed to push some refs to 'https://github.com/rappuccino/Carpenter-R'[0K
+hint: Updates were rejected because the tip of your current branch is behind[0K
+hint: its remote counterpart. Integrate the remote changes (e.g.[0K
+hint: 'git pull ...') before pushing again.[0K
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.[0K
+[0K
 C:\Users\Chun-Yen Lin\Desktop\R-intro>[0K[?25h
