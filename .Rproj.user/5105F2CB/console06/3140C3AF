@@ -783,4 +783,16 @@ C:\Users\Chun-Yen Lin\Desktop\R-intro>git pull --rebase[0K[?25h[?25lC:\Users
 [0K[?25h]0; Reinitialized existing Git repository in C:/Users/Chun-Yen Lin/Desktop/R-intro/.git/[0K[?25l
 [0K
 C:\Users\Chun-Yen Lin\Desktop\R-intro>[0K[?25hg[0Ki[0Kt[0K[43G[?25lC:\Users\Chun-Yen Lin\Desktop\R-intro>git a[0K[?25hd[0Kd[0K[47G[?25lC:\Users\Chun-Yen Lin\Desktop\R-intro>git add -[0K[?25hA[0K[?25l
+[0K[?25h]0; [?25l
+C:\Users\Chun-Yen Lin\Desktop\R-intro>[0K[?25hgit checkout .Rproj.user/5105F2CB/console06/3140C3AF[0K[?25lC:\Users\Chun-Yen Lin\Desktop\R-intro>git status[0K[?25h]0;  - git  status[?25l
+[0K[?25h]0; On branch master[0K[?25l
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/5105F2CB/console06/3140C3AF[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+C:\Users\Chun-Yen Lin\Desktop\R-intro>[0K[?25hg[0Ki[0Kt[0K[43G[?25lC:\Users\Chun-Yen Lin\Desktop\R-intro>git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[50G[?25lC:\Users\Chun-Yen Lin\Desktop\R-intro>git commit -[0K[?25ha[0K]0;  - git  commit -a[?25l
 [0K[?25h
