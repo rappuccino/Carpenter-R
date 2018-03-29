@@ -1,0 +1,4 @@
+# SWC R Intro  #
+
+getwd()
+
